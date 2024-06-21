@@ -1,0 +1,91 @@
+Submission ID,Respondent ID,Submitted at,"Cuéntanos por favor tu género:
+",¿A qué generación perteneces?,¿Hace cuánto tiempo trabajas en Payall?,Lo que más te gusta de trabajar allí es...,Lo que menos te gusta de trabajar allí es...,Code maintainability,Continuous delivery,Continuous integration,Database change management,Deployment automation,Empowering teams to choose tools,Flexible infrastructure,Monitoring and observability,Test automation,Test data management,Trunk-based development,Version control,Si pudieras implementar alguna de estas prácticas ¿cuáles serían? explica porqué piensas que ,"Promovemos la sencillez en todos los aspectos. Ofrecemos la solución más simple y mínima que pueda ser satisfactoria para el cliente.
+","Abordamos el desarrollo de proyectos de forma iterativa e incremental, es decir, a medida que aprendemos de los resultados, actualizamos el plan de trabajo.
+
+","Realizamos entregas frecuentes de productos o servicios terminados.
+","Realizamos reuniones de planificación (y replanificación) frecuentemente (frecuencia de pocas semanas no meses).
+","Delimitamos el trabajo previsto para un período en base a su estimación y la correspondiente coherencia con la capacidad del equipo.
+","Organizamos el trabajo en iteraciones con fechas previstas.
+","Evitamos invertir esfuerzo en adelantar trabajo que no esté comprometido y/o no esté cercano a su entrega.
+","Ponemos foco en conseguir un buen flujo de trabajo terminado.
+","Siempre priorizamos el trabajo pendiente.
+","Limitamos el trabajo en proceso (WIP), es decir, la cantidad de unidades de trabajo que tiene el equipo en una determinada actividad.
+","Formamos equipos pequeños y procuramos que se mantengan sus integrantes.
+","Mantenemos al equipo enfocado en una meta de producto o servicio clara y medible.
+","Hacemos seguimiento continuo (frecuencia de días, no semanas).
+","El equipo responsable del proyecto se reúne diariamente para sincronizarse.
+","Cualquier miembro del equipo puede visualizar todo el trabajo pendiente.
+","Tenemos una gestión integrada de todo el trabajo pendiente, no asignamos más trabajo si el equipo se encuentra ocupado.
+",Está claramente definido quién prioriza y toma las decisiones en el desarrollo de productos o servicios.,"El área de negocio trabaja de la mano (frecuentemente, disponible y atendiendo dudas) con las áreas de desarrollo de productos o servicios.
+","Revisamos frecuentemente los resultados obtenidos con los involucrados.
+","Los equipos tienen el empoderamiento para tomar las decisiones técnicas requeridas. Son autogestionado.
+",Las decisiones son guiadas por los datos. Se analiza constantemente el mercado y se adaptan los productos o servicios en función de las necesidades descubiertas de nuestros clientes.,"Poseemos los espacios y la tecnología para trabajar de forma co-localizada (presencial o virtual). 
+","Contamos con un espacio físico de trabajo que favorece la interacción entre los miembros del equipo.
+","Reforzamos constantemente la visión del producto o servicio que ofrecemos.
+","Somos un equipo cross-funcional. Sumamos entre los miembros las habilidades para abordar todas las actividades necesarias para terminar el trabajo. 
+","Los integrantes del equipo pueden encargarse de diferentes tipos de actividades, aunque puedan ser especialistas en alguna(s) de ellas.
+","Trabajamos centrados en satisfacer las necesidades del cliente, pues nos comunicamos constantemente con ellos.
+","Documentamos solo lo estrictamente necesario. Buscamos que el esfuerzo de crear la documentación sea lo más rentable posible.
+","Tenemos pautas para gestionar convenientemente el retrabajo.
+","Disponemos de líderes que promueven explícitamente la mejora continua de procesos, eso se evidencia en las mejoras frecuentes que implementamos.
+","Tenemos establecidos estándares, prácticas y modelos que promueven la excelente técnica del equipo.
+","Realizamos reuniones de retrospectiva para evaluar el desempeño del equipo y sus formas de trabajo.
+","Disponemos de una definición clara y compartida de lo que se entiende por trabajo terminado, tanto para las actividades realizadas por el equipo como para las entregas de productos, servicios o proyectos.
+","Promovemos que el trabajo o las actividades de los proyectos sean realizadas en conjunto por dos o más integrantes.
+","Replanificamos oportunamente para evitar horas extras o sobretrabajo.
+","Reducimos las interrupciones o cambios de contexto que afectan el trabajo de los miembros de un equipo de proyecto.
+","Somos disciplinados y buscamos el máximo aprovechamiento de las reuniones.
+","Promovemos la automatización dentro de los flujos de trabajo para reducir el tiempo de entrega.
+","Postergamos hasta el último momento responsable la asignación de realizar una actividad a un miembro del equipo.
+","Integramos e incluimos a todos los involucrados en el desarrollo de un producto o servicio de forma continua.
+","Promovemos que los miembros del equipo conozcan todas las partes del producto o servicio que se han desarrollado.
+","Promovemos la mejora continua de la organización, a través de la implementación de cambios en los procesos de forma frecuente.
+",La organización pone a disposición los recursos necesarios para impulsar los procesos de cambio.,Contamos con diferentes instrumentos para medir los cambios proyectados.,Existe una cultura compartida desde donde se propicia e impulsa el cambio organizacional.
+968ZpG,OPB4ZM,2024-03-27 17:58:07,Mujer,Nacidos antes de los '70,Entre 2 a 3 años,"Su gente, el ambiente de trabajo","El desorden.
+El horario 100% presencial 
+Lo que ganó ya se me está haciendo pequeño ",2,3,2,2,2,3,2,3,2,2,3,2,"Automatización de pruebas , buscando apoyar la calidad de las mismas 
+Versionamiento pero con la documentación debida de los cambios 
+Mantenabilidad del código, todo lo que pueda apoyar es valioso, las refactorizaciones se hacen interminables, los códigos no se documentan .
+Igual todo lo que tenga que ver con integración apoya, los desarrolladores manejan visiones muy parceladas de las soluciones ",5,3,5,7,3,8,4,5,3,3,6,3,8,6,3,2,4,2,2,3,2,5,8,5,6,4,3,3,3,5,4,7,5,3,4,3,5,5,4,6,5,4,5,3,4
+P2KpZ0,NV4MeO,2024-03-28 15:35:42,Hombre,Nacidos después del año 1991,Entre 2 a 3 años,"La empresa, continuar creciendo y seguir ganando experiencia",Horarios poco flexibles,2,3,3,3,3,4,3,2,1,1,1,3,"Automatizacion de pruebas, para mejorar la calidad de los productos de la empresa y minimizar los incidentes",4,8,2,8,5,7,9,4,3,2,6,8,8,7,6,2,6,5,7,6,3,8,6,6,7,4,5,5,2,7,6,7,7,6,5,3,4,5,5,8,7,7,6,5,6
+B8aqWR,G1bxZL,2024-04-01 12:47:28,Hombre,Nacidos entre los '71 y los '80,Menos de 1 año,El ambiente y el compañerismo además los proyectos son interesantes ,el desorden ,1,3,3,3,1,2,2,3,1,1,1,2,Code Review en aras de poder lanzar un producto con el menor desperdicio posible y tener un código legible y ordenado,1,2,4,9,2,8,5,5,1,4,1,3,4,9,9,2,2,4,6,5,0,5,6,4,6,6,3,6,9,9,1,,8,6,6,4,9,4,1,5,5,5,10,1,7
+6rLa2O,OPEGkk,2024-04-01 14:33:13,Hombre,Nacidos después del año 1991,Entre 2 a 3 años,"he conocido buenos amigos, siento que la empresa es muy humana (permitiendo por ej que yo culmine mis estudios), me gusta el proyecto en el que estoy actualmente ",a veces mi trabajo depende de gente que no está comprometida con la empresa y realiza un trabajo bastante mediocre; hay gente que solo está pendiente de un chisme y de hablar mal de uno,1,2,2,2,2,4,3,3,1,1,1,4,"implementaría CI/CD y test automation, sin duda es algo que ayudaría a que el desarrollo y despliegue (ya sea en ambiente de pruebas o prod) sea mucho más fácil y rápido, optimizando tiempos en todo el flujo de desarrollo y entrega. ",8,10,7,10,5,10,0,10,2,2,8,2,10,6,6,0,7,5,10,10,6,6,8,0,6,6,8,10,0,7,0,8,7,9,0,0,0,0,0,10,8,8,5,4,5
+74blzz,Qr4Aep,2024-04-01 15:07:43,Hombre,Nacidos después del año 1991,Más de 4 años,La diversidad de proyectos en los que he trabajado y la oportunidad de poder mejorar progresivamente en mis habilidades,La relacion con algunos clientes no es la mas profesional y la premura en algunos entregables que pudiesen haber sido evitadas ,3,5,4,4,5,3,3,4,2,3,2,4,la automatizacion de pruebas seria una practica que nos permitiria ahorrar bastante tiempo y acortar los tiempos de entrega,7,8,7,6,5,7,7,7,9,7,8,7,7,6,8,6,5,6,7,8,5,0,8,8,9,8,9,8,7,7,6,6,6,6,4,5,5,6,5,6,6,8,9,8,8
+D0KKeN,jMzxR4,2024-04-01 15:41:52,Mujer,Nacidos después del año 1991,Más de 4 años,Las oportunidades y los retos que se pueden presentar,La poca organización y a veces el poco reconocimiento. ,2,4,2,3,4,5,2,1,1,1,1,2,"Un buen manejo de CI/CD donde se tenga un proceso de integración, entrega y despliegue continuo, para detectar errores de integración, automatización de los procesos de construcción y proceso de despliegue. Establecer un proceso claro podría disminuir errores en ambiente productivo asi como tener un historial de los cabios que se han hecho y la planificación de dichos cambios",3,8,2,10,4,6,5,2,7,0,6,3,10,4,10,0,9,10,10,7,5,6,10,7,9,10,10,0,0,4,2,8,4,7,0,0,0,4,2,10,10,4,6,0,4
+aZedlE,rKYrjp,2024-04-01 16:20:55,Hombre,Nacidos después del año 1991,Más de 4 años,Existen muchas oportunidades para aprendizaje y crecimiento profesional dada la cantidad de proyectos y las varias lineas de negocio existentes,"Problemas de comunicacion importantes, falta de estructura (roles, responsabilidad y procesos no estan bien claros o definidos) y desorganizacion. Desgaste del personal y no cumplimiento de compromisos.",1,2,2,1,2,3,1,2,1,1,2,3,"Si tuviera que elegir las practicas minimas serian las siguientes:
+
+- Database Change Management
+Situacion Actual: No se esta llevando un control de los cambios realizados a las bases de datos, los cambios se realizan bajo demanda y arbitrariamente, resultando en una diferencia en los diccionarios de datos de las bases de datos de un mismo servicio a lo largo de los ambientes (testing, qa, produccion). Reduciendo la calidad de las pruebas y por tanto generando fallas en produccion
+
+Situacion Ideal: Se lleva una bitacora/control de los cambios realizados al menos en cuanto a la forma (metadatos/diccionario de datos) de las bases de datos
+
+- Trunk Based Development
+Situacion Actual: Se tiene conocimiento de la metodologia GitFlow y se ha impulsado como iniciativa su implementacion sin embargo no se ha adoptado como practica a lo largo de todo T.I ni en los repositorios de forma homogenea. 
+
+Situacion Ideal: Los equipos hacen uso de una metodologia comun para el desarrollo (sea Trunk Based Development o GitFlow, etc) teniendo inclusive mecanismos de control como radares de codigo para evitar fallos en produccion
+
+- Test Automation
+Situacion Actual: Las pruebas realizadas varian desde Smoke Tests hasta pruebas de estres y funcionales. Sin embargo terminan siendo pruebas de Caja Negra, No se estan contemplando practicas como TDD o alguna forma de caja blanca en donde el codigo se pruebe realmente y se tenga cobertura amplia
+
+Situacion Ideal: Se Tienen pruebas unitaria con una covertura amplia del codigo asi como radares de codigo para validar la calidad del codigo y evitar desde la fuente que se propaguen errores o que nuevas funcionalidades rompan la base de codigo actual
+
+- Continuous Delivery
+Situacion Actual: Aun cuando tenemos procesos de despliegue continuos con Jenkins, no estan para todos los componentes de la plataforma (muchos despliegues manuales)
+
+Situacion Ideal: Dada una tuberia bien definida e implementada ya el incremento listo para ser desplegado podra llegar a la herramienta de despliegue continuo para ser desplegado en el ambiente correspondiente con los controles y aprobaciones necesarias en un tiempo minimo
+
+- Continuous Integration
+Situacion Actual: cerca de un 95% (al ojo) de la base de codigo esta versionada en repositorios de github, sin embargo no se esta revisando el codigo, no se esta versionando correctamente o en algunos casos no se versiona el artefacto (solo se hacen ramas y commits). A Pesar de todo esto se integra el codigo, pero es propenso a errores y retrabajo
+
+Situacion Ideal: Todos los componentes (desde scripts basicos hasta servicios) estan versionados, todos los equipos entienden como integrar su codigo con el del resto y se tienen implementadas las herramientas y practicas para detectar conflictos y problemas antes de llegar a produccion
+
+- Monitoring and observability
+Situacion Actual: Se tiene implementado el T.I.G Stack (Telegraf, Influx, Grafana) sin embargo sus limitaciones asi como las limitaciones de competencias del equipo para explotar la herramienta hacen que sea no sea confiable y no de el valor que se espera. Adicionalmente hay un delay entre un cambio en la infraestructura y el ajuste de la configuracion (manual) de la herramienta para monitorear el elemento modificado en la infraestructura. Uno de los equipos dentro de T.I tiene fortaleza con la herramienta Zabbix, tenemos en el backlog evaluar su implementacion
+
+Situacion Ideal: Se tiene un sistema paraguas que contiene un repositorio de los eventos de la plataforma en todas las capas del modelo tcp/ip y los eventos se traducen en alertas o incidencias que a su vez se convierten en tickets para resolucion de problemas. Ademas Cada cambio realizado en la plataforma se refleja en el sistema de monitoreo
+
+- Version Control
+Situacion Actual: Se ha impulsado que los equipo manejen versionamiento semantico, sin embargo aun no se esta aplicando correctamente el versionamiento del artefacto y manejo de las ramas segun metodologia GitFlow.
+
+Situacion Ideal: El equipo tienen un entendimiento comun de como realizar el versionamiento del codigo y artefactos de la plataforma, siguiendo una metodologia y en base a esto pueden colaborar de forma auto gestionada",7,5,7,7,3,5,4,3,3,0,5,4,7,4,4,0,0,2,7,2,0,8,5,5,10,10,8,7,0,3,1,2,4,1,1,1,3,3,5,3,7,6,,3,5
+x9jLWE,OPEqBp,2024-04-01 20:39:34,Mujer,Nacidos después del año 1991,Entre 2 a 3 años,La oportunidad de poder desenvolverme y continuar aprendiendo en el área de base de datos la cual es mi mayor interés,La falta de priorización y organización de las actividades que derivan en una sobrecarga en el trabajo de los recursos asignados por cada área,2,3,4,2,3,4,4,3,2,1,3,3,"Pienso que la práctica de Database Change Management es de vital importancia implementarla para poder llevar un control y seguimiento de los cambios que se realizan en el tiempo en cuanto a estructura y data, principalmente por el hecho de que la mayoría de las base de datos utilizadas son NoSql y estas permiten una mayor flexibilidad en la manipulación de los esquemas que pueden derivar en incongruencias o incompatibilidades",4,7,7,8,2,7,7,6,4,6,8,6,8,8,8,2,5,8,8,5,8,9,9,6,7,8,8,5,4,7,5,8,7,8,3,1,3,7,5,4,3,4,5,2,3

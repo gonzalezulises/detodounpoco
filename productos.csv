@@ -1,0 +1,73 @@
+product_id,product_name,category,about_product,precio
+1001,Frigorífico XPTO,Refrigeración,Frigorífico XPTO: El mejor en su clase para refrigeración. Incluye características avanzadas y tecnología de última generación.,409.1
+1002,Nevera Combi Freeze,Refrigeración,Nevera Combi Freeze: El mejor en su clase para refrigeración. Incluye características avanzadas y tecnología de última generación.,180.65
+1003,Congelador Arctic,Refrigeración,Congelador Arctic: El mejor en su clase para refrigeración. Incluye características avanzadas y tecnología de última generación.,869.53
+1004,Refrigerador Dual Cool,Refrigeración,Refrigerador Dual Cool: El mejor en su clase para refrigeración. Incluye características avanzadas y tecnología de última generación.,548.03
+1005,Frigorífico EcoSave,Refrigeración,Frigorífico EcoSave: El mejor en su clase para refrigeración. Incluye características avanzadas y tecnología de última generación.,217.83
+1006,Nevera FreshSpace,Refrigeración,Nevera FreshSpace: El mejor en su clase para refrigeración. Incluye características avanzadas y tecnología de última generación.,987.11
+1007,Congelador FrostFree,Refrigeración,Congelador FrostFree: El mejor en su clase para refrigeración. Incluye características avanzadas y tecnología de última generación.,355.35
+1008,Refrigerador SmartFridge,Refrigeración,Refrigerador SmartFridge: El mejor en su clase para refrigeración. Incluye características avanzadas y tecnología de última generación.,606.49
+1009,Frigorífico Plus,Refrigeración,Frigorífico Plus: El mejor en su clase para refrigeración. Incluye características avanzadas y tecnología de última generación.,140.95
+1010,Nevera TurboIce,Refrigeración,Nevera TurboIce: El mejor en su clase para refrigeración. Incluye características avanzadas y tecnología de última generación.,440.66
+1011,Congelador DeepFreeze,Refrigeración,Congelador DeepFreeze: El mejor en su clase para refrigeración. Incluye características avanzadas y tecnología de última generación.,621.19
+1012,Refrigerador MultiZone,Refrigeración,Refrigerador MultiZone: El mejor en su clase para refrigeración. Incluye características avanzadas y tecnología de última generación.,980.62
+1013,Cocina Gas Pro,Cocina,Cocina Gas Pro: El mejor en su clase para cocina. Incluye características avanzadas y tecnología de última generación.,456.05
+1014,Horno Multifunción,Cocina,Horno Multifunción: El mejor en su clase para cocina. Incluye características avanzadas y tecnología de última generación.,197.14
+1015,Microondas QuickMeal,Cocina,Microondas QuickMeal: El mejor en su clase para cocina. Incluye características avanzadas y tecnología de última generación.,571.42
+1016,Placa Inducción Flex,Cocina,Placa Inducción Flex: El mejor en su clase para cocina. Incluye características avanzadas y tecnología de última generación.,381.88
+1017,Horno Pirolítico Elite,Cocina,Horno Pirolítico Elite: El mejor en su clase para cocina. Incluye características avanzadas y tecnología de última generación.,638.97
+1018,Cocina Dual Fuel,Cocina,Cocina Dual Fuel: El mejor en su clase para cocina. Incluye características avanzadas y tecnología de última generación.,794.15
+1019,Microondas Inverter,Cocina,Microondas Inverter: El mejor en su clase para cocina. Incluye características avanzadas y tecnología de última generación.,57.6
+1020,Placa Vitrocerámica,Cocina,Placa Vitrocerámica: El mejor en su clase para cocina. Incluye características avanzadas y tecnología de última generación.,382.89
+1021,Horno Compacto,Cocina,Horno Compacto: El mejor en su clase para cocina. Incluye características avanzadas y tecnología de última generación.,393.65
+1022,Cocina Electric Max,Cocina,Cocina Electric Max: El mejor en su clase para cocina. Incluye características avanzadas y tecnología de última generación.,535.63
+1023,Microondas GrillWave,Cocina,Microondas GrillWave: El mejor en su clase para cocina. Incluye características avanzadas y tecnología de última generación.,747.57
+1024,Placa Gas Natural,Cocina,Placa Gas Natural: El mejor en su clase para cocina. Incluye características avanzadas y tecnología de última generación.,564.29
+1025,Lavadora SpinMaster,Lavado,Lavadora SpinMaster: El mejor en su clase para lavado. Incluye características avanzadas y tecnología de última generación.,571.65
+1026,Secadora AirVented,Lavado,Secadora AirVented: El mejor en su clase para lavado. Incluye características avanzadas y tecnología de última generación.,602.31
+1027,Lavasecadora 2in1,Lavado,Lavasecadora 2in1: El mejor en su clase para lavado. Incluye características avanzadas y tecnología de última generación.,620.47
+1028,Lavadora EcoWash,Lavado,Lavadora EcoWash: El mejor en su clase para lavado. Incluye características avanzadas y tecnología de última generación.,101.95
+1029,Secadora Condensation,Lavado,Secadora Condensation: El mejor en su clase para lavado. Incluye características avanzadas y tecnología de última generación.,731.48
+1030,Lavasecadora Compact,Lavado,Lavasecadora Compact: El mejor en su clase para lavado. Incluye características avanzadas y tecnología de última generación.,180.64
+1031,Lavadora HighLoad,Lavado,Lavadora HighLoad: El mejor en su clase para lavado. Incluye características avanzadas y tecnología de última generación.,184.08
+1032,Secadora SilentPlus,Lavado,Secadora SilentPlus: El mejor en su clase para lavado. Incluye características avanzadas y tecnología de última generación.,752.55
+1033,Lavasecadora SmartTech,Lavado,Lavasecadora SmartTech: El mejor en su clase para lavado. Incluye características avanzadas y tecnología de última generación.,639.96
+1034,Lavadora AquaStop,Lavado,Lavadora AquaStop: El mejor en su clase para lavado. Incluye características avanzadas y tecnología de última generación.,161.06
+1035,Secadora HeatPump,Lavado,Secadora HeatPump: El mejor en su clase para lavado. Incluye características avanzadas y tecnología de última generación.,905.13
+1036,Lavasecadora SpaceSaver,Lavado,Lavasecadora SpaceSaver: El mejor en su clase para lavado. Incluye características avanzadas y tecnología de última generación.,811.63
+1037,Smart TV 4K,Electrónicos,Smart TV 4K: El mejor en su clase para electrónicos. Incluye características avanzadas y tecnología de última generación.,561.23
+1038,Altavoz Bluetooth Boom,Electrónicos,Altavoz Bluetooth Boom: El mejor en su clase para electrónicos. Incluye características avanzadas y tecnología de última generación.,537.23
+1039,Auriculares NoiseCancel,Electrónicos,Auriculares NoiseCancel: El mejor en su clase para electrónicos. Incluye características avanzadas y tecnología de última generación.,690.52
+1040,Consola PlayMax,Electrónicos,Consola PlayMax: El mejor en su clase para electrónicos. Incluye características avanzadas y tecnología de última generación.,322.23
+1041,Smartwatch HealthTrack,Electrónicos,Smartwatch HealthTrack: El mejor en su clase para electrónicos. Incluye características avanzadas y tecnología de última generación.,709.21
+1042,Tablet ProView,Electrónicos,Tablet ProView: El mejor en su clase para electrónicos. Incluye características avanzadas y tecnología de última generación.,827.95
+1043,Cámara ActionShot,Electrónicos,Cámara ActionShot: El mejor en su clase para electrónicos. Incluye características avanzadas y tecnología de última generación.,124.64
+1044,Smart TV Curve,Electrónicos,Smart TV Curve: El mejor en su clase para electrónicos. Incluye características avanzadas y tecnología de última generación.,160.64
+1045,Altavoz Wi-Fi Harmony,Electrónicos,Altavoz Wi-Fi Harmony: El mejor en su clase para electrónicos. Incluye características avanzadas y tecnología de última generación.,464.66
+1046,Auriculares BassBoost,Electrónicos,Auriculares BassBoost: El mejor en su clase para electrónicos. Incluye características avanzadas y tecnología de última generación.,691.1
+1047,Consola GameSphere,Electrónicos,Consola GameSphere: El mejor en su clase para electrónicos. Incluye características avanzadas y tecnología de última generación.,364.95
+1048,Smartwatch FitLife,Electrónicos,Smartwatch FitLife: El mejor en su clase para electrónicos. Incluye características avanzadas y tecnología de última generación.,443.78
+1049,Aire Acondicionado CoolMax,Climatización,Aire Acondicionado CoolMax: El mejor en su clase para climatización. Incluye características avanzadas y tecnología de última generación.,463.03
+1050,Calefactor EcoHeat,Climatización,Calefactor EcoHeat: El mejor en su clase para climatización. Incluye características avanzadas y tecnología de última generación.,460.79
+1051,Ventilador AirFlow,Climatización,Ventilador AirFlow: El mejor en su clase para climatización. Incluye características avanzadas y tecnología de última generación.,759.47
+1052,Aire Purificador PureAir,Climatización,Aire Purificador PureAir: El mejor en su clase para climatización. Incluye características avanzadas y tecnología de última generación.,388.58
+1053,Humidificador AquaBalance,Climatización,Humidificador AquaBalance: El mejor en su clase para climatización. Incluye características avanzadas y tecnología de última generación.,904.23
+1054,Deshumidificador DryTech,Climatización,Deshumidificador DryTech: El mejor en su clase para climatización. Incluye características avanzadas y tecnología de última generación.,272.56
+1055,Aire Acondicionado Split,Climatización,Aire Acondicionado Split: El mejor en su clase para climatización. Incluye características avanzadas y tecnología de última generación.,935.23
+1056,Calefactor QuickWarm,Climatización,Calefactor QuickWarm: El mejor en su clase para climatización. Incluye características avanzadas y tecnología de última generación.,168.71
+1057,Ventilador SilentMode,Climatización,Ventilador SilentMode: El mejor en su clase para climatización. Incluye características avanzadas y tecnología de última generación.,552.95
+1058,Purificador IonClean,Climatización,Purificador IonClean: El mejor en su clase para climatización. Incluye características avanzadas y tecnología de última generación.,258.17
+1059,Humidificador Misty,Climatización,Humidificador Misty: El mejor en su clase para climatización. Incluye características avanzadas y tecnología de última generación.,840.59
+1060,Deshumidificador Compact,Climatización,Deshumidificador Compact: El mejor en su clase para climatización. Incluye características avanzadas y tecnología de última generación.,896.25
+1061,Licuadora PowerMix,Pequeños Electrodomésticos,Licuadora PowerMix: El mejor en su clase para pequeños electrodomésticos. Incluye características avanzadas y tecnología de última generación.,472.51
+1062,Cafetera Expresso,Pequeños Electrodomésticos,Cafetera Expresso: El mejor en su clase para pequeños electrodomésticos. Incluye características avanzadas y tecnología de última generación.,401.49
+1063,Tostadora Crisp,Pequeños Electrodomésticos,Tostadora Crisp: El mejor en su clase para pequeños electrodomésticos. Incluye características avanzadas y tecnología de última generación.,98.48
+1064,Batidora SmoothieKing,Pequeños Electrodomésticos,Batidora SmoothieKing: El mejor en su clase para pequeños electrodomésticos. Incluye características avanzadas y tecnología de última generación.,483.58
+1065,Exprimidor JuiceMax,Pequeños Electrodomésticos,Exprimidor JuiceMax: El mejor en su clase para pequeños electrodomésticos. Incluye características avanzadas y tecnología de última generación.,50.35
+1066,Grill HealthyCook,Pequeños Electrodomésticos,Grill HealthyCook: El mejor en su clase para pequeños electrodomésticos. Incluye características avanzadas y tecnología de última generación.,571.29
+1067,Licuadora MultiMix,Pequeños Electrodomésticos,Licuadora MultiMix: El mejor en su clase para pequeños electrodomésticos. Incluye características avanzadas y tecnología de última generación.,865.32
+1068,Cafetera GrindBrew,Pequeños Electrodomésticos,Cafetera GrindBrew: El mejor en su clase para pequeños electrodomésticos. Incluye características avanzadas y tecnología de última generación.,882.43
+1069,Tostadora WideSlot,Pequeños Electrodomésticos,Tostadora WideSlot: El mejor en su clase para pequeños electrodomésticos. Incluye características avanzadas y tecnología de última generación.,405.92
+1070,Batidora CupBlend,Pequeños Electrodomésticos,Batidora CupBlend: El mejor en su clase para pequeños electrodomésticos. Incluye características avanzadas y tecnología de última generación.,594.21
+1071,Exprimidor CitrusPress,Pequeños Electrodomésticos,Exprimidor CitrusPress: El mejor en su clase para pequeños electrodomésticos. Incluye características avanzadas y tecnología de última generación.,360.99
+1072,Grill PaniniPress,Pequeños Electrodomésticos,Grill PaniniPress: El mejor en su clase para pequeños electrodomésticos. Incluye características avanzadas y tecnología de última generación.,928.81

@@ -1,0 +1,98 @@
+DatabaseName,ParentSchema,ParentTable,ColumnName,ColumnOrder,DataType,ColumnSize,ConstraintType,ChildSchema,ChildTable,ChildColumn
+,sakila,actor,actor_id,1,smallint,NULL,"PRIMARY KEY",NULL,NULL,NULL
+,sakila,actor,first_name,2,varchar,45,NULL,NULL,NULL,NULL
+,sakila,actor,last_name,3,varchar,45,NULL,NULL,NULL,NULL
+,sakila,actor,last_update,4,timestamp,NULL,NULL,NULL,NULL,NULL
+,sakila,address,address_id,1,smallint,NULL,"PRIMARY KEY",NULL,NULL,NULL
+,sakila,address,address,2,varchar,50,NULL,NULL,NULL,NULL
+,sakila,address,address2,3,varchar,50,NULL,NULL,NULL,NULL
+,sakila,address,district,4,varchar,20,NULL,NULL,NULL,NULL
+,sakila,address,city_id,5,smallint,NULL,"FOREIGN KEY",sakila,city,city_id
+,sakila,address,postal_code,6,varchar,10,NULL,NULL,NULL,NULL
+,sakila,address,phone,7,varchar,20,NULL,NULL,NULL,NULL
+,sakila,address,location,8,geometry,NULL,NULL,NULL,NULL,NULL
+,sakila,address,last_update,9,timestamp,NULL,NULL,NULL,NULL,NULL
+,sakila,category,category_id,1,tinyint,NULL,"PRIMARY KEY",NULL,NULL,NULL
+,sakila,category,name,2,varchar,25,NULL,NULL,NULL,NULL
+,sakila,category,last_update,3,timestamp,NULL,NULL,NULL,NULL,NULL
+,sakila,city,city_id,1,smallint,NULL,"PRIMARY KEY",NULL,NULL,NULL
+,sakila,city,city,2,varchar,50,NULL,NULL,NULL,NULL
+,sakila,city,country_id,3,smallint,NULL,"FOREIGN KEY",sakila,country,country_id
+,sakila,city,last_update,4,timestamp,NULL,NULL,NULL,NULL,NULL
+,sakila,country,country_id,1,smallint,NULL,"PRIMARY KEY",NULL,NULL,NULL
+,sakila,country,country,2,varchar,50,NULL,NULL,NULL,NULL
+,sakila,country,last_update,3,timestamp,NULL,NULL,NULL,NULL,NULL
+,sakila,customer,customer_id,1,smallint,NULL,"PRIMARY KEY",NULL,NULL,NULL
+,sakila,customer,store_id,2,tinyint,NULL,"FOREIGN KEY",sakila,store,store_id
+,sakila,customer,first_name,3,varchar,45,NULL,NULL,NULL,NULL
+,sakila,customer,last_name,4,varchar,45,NULL,NULL,NULL,NULL
+,sakila,customer,email,5,varchar,50,NULL,NULL,NULL,NULL
+,sakila,customer,address_id,6,smallint,NULL,"FOREIGN KEY",sakila,address,address_id
+,sakila,customer,active,7,tinyint,NULL,NULL,NULL,NULL,NULL
+,sakila,customer,create_date,8,datetime,NULL,NULL,NULL,NULL,NULL
+,sakila,customer,last_update,9,timestamp,NULL,NULL,NULL,NULL,NULL
+,sakila,film,film_id,1,smallint,NULL,"PRIMARY KEY",NULL,NULL,NULL
+,sakila,film,title,2,varchar,255,NULL,NULL,NULL,NULL
+,sakila,film,description,3,text,65535,NULL,NULL,NULL,NULL
+,sakila,film,release_year,4,year,NULL,NULL,NULL,NULL,NULL
+,sakila,film,language_id,5,tinyint,NULL,"FOREIGN KEY",sakila,language,language_id
+,sakila,film,original_language_id,6,tinyint,NULL,"FOREIGN KEY",sakila,language,language_id
+,sakila,film,rental_duration,7,tinyint,NULL,NULL,NULL,NULL,NULL
+,sakila,film,rental_rate,8,decimal,NULL,NULL,NULL,NULL,NULL
+,sakila,film,length,9,smallint,NULL,NULL,NULL,NULL,NULL
+,sakila,film,replacement_cost,10,decimal,NULL,NULL,NULL,NULL,NULL
+,sakila,film,rating,11,enum,5,NULL,NULL,NULL,NULL
+,sakila,film,special_features,12,set,54,NULL,NULL,NULL,NULL
+,sakila,film,last_update,13,timestamp,NULL,NULL,NULL,NULL,NULL
+,sakila,film_actor,actor_id,1,smallint,NULL,"PRIMARY KEY",NULL,NULL,NULL
+,sakila,film_actor,actor_id,1,smallint,NULL,"FOREIGN KEY",sakila,actor,actor_id
+,sakila,film_actor,film_id,2,smallint,NULL,"PRIMARY KEY",NULL,NULL,NULL
+,sakila,film_actor,film_id,2,smallint,NULL,"FOREIGN KEY",sakila,film,film_id
+,sakila,film_actor,last_update,3,timestamp,NULL,NULL,NULL,NULL,NULL
+,sakila,film_category,film_id,1,smallint,NULL,"PRIMARY KEY",NULL,NULL,NULL
+,sakila,film_category,film_id,1,smallint,NULL,"FOREIGN KEY",sakila,film,film_id
+,sakila,film_category,category_id,2,tinyint,NULL,"PRIMARY KEY",NULL,NULL,NULL
+,sakila,film_category,category_id,2,tinyint,NULL,"FOREIGN KEY",sakila,category,category_id
+,sakila,film_category,last_update,3,timestamp,NULL,NULL,NULL,NULL,NULL
+,sakila,film_text,film_id,1,smallint,NULL,"PRIMARY KEY",NULL,NULL,NULL
+,sakila,film_text,title,2,varchar,255,NULL,NULL,NULL,NULL
+,sakila,film_text,description,3,text,65535,NULL,NULL,NULL,NULL
+,sakila,inventory,inventory_id,1,mediumint,NULL,"PRIMARY KEY",NULL,NULL,NULL
+,sakila,inventory,film_id,2,smallint,NULL,"FOREIGN KEY",sakila,film,film_id
+,sakila,inventory,store_id,3,tinyint,NULL,"FOREIGN KEY",sakila,store,store_id
+,sakila,inventory,last_update,4,timestamp,NULL,NULL,NULL,NULL,NULL
+,sakila,language,language_id,1,tinyint,NULL,"PRIMARY KEY",NULL,NULL,NULL
+,sakila,language,name,2,char,20,NULL,NULL,NULL,NULL
+,sakila,language,last_update,3,timestamp,NULL,NULL,NULL,NULL,NULL
+,sakila,payment,payment_id,1,smallint,NULL,"PRIMARY KEY",NULL,NULL,NULL
+,sakila,payment,customer_id,2,smallint,NULL,"FOREIGN KEY",sakila,customer,customer_id
+,sakila,payment,staff_id,3,tinyint,NULL,"FOREIGN KEY",sakila,staff,staff_id
+,sakila,payment,rental_id,4,int,NULL,"FOREIGN KEY",sakila,rental,rental_id
+,sakila,payment,amount,5,decimal,NULL,NULL,NULL,NULL,NULL
+,sakila,payment,payment_date,6,datetime,NULL,NULL,NULL,NULL,NULL
+,sakila,payment,last_update,7,timestamp,NULL,NULL,NULL,NULL,NULL
+,sakila,rental,rental_id,1,int,NULL,"PRIMARY KEY",NULL,NULL,NULL
+,sakila,rental,rental_date,2,datetime,NULL,UNIQUE,NULL,NULL,NULL
+,sakila,rental,inventory_id,3,mediumint,NULL,UNIQUE,NULL,NULL,NULL
+,sakila,rental,inventory_id,3,mediumint,NULL,"FOREIGN KEY",sakila,inventory,inventory_id
+,sakila,rental,customer_id,4,smallint,NULL,UNIQUE,NULL,NULL,NULL
+,sakila,rental,customer_id,4,smallint,NULL,"FOREIGN KEY",sakila,customer,customer_id
+,sakila,rental,return_date,5,datetime,NULL,NULL,NULL,NULL,NULL
+,sakila,rental,staff_id,6,tinyint,NULL,"FOREIGN KEY",sakila,staff,staff_id
+,sakila,rental,last_update,7,timestamp,NULL,NULL,NULL,NULL,NULL
+,sakila,staff,staff_id,1,tinyint,NULL,"PRIMARY KEY",NULL,NULL,NULL
+,sakila,staff,first_name,2,varchar,45,NULL,NULL,NULL,NULL
+,sakila,staff,last_name,3,varchar,45,NULL,NULL,NULL,NULL
+,sakila,staff,address_id,4,smallint,NULL,"FOREIGN KEY",sakila,address,address_id
+,sakila,staff,picture,5,blob,65535,NULL,NULL,NULL,NULL
+,sakila,staff,email,6,varchar,50,NULL,NULL,NULL,NULL
+,sakila,staff,store_id,7,tinyint,NULL,"FOREIGN KEY",sakila,store,store_id
+,sakila,staff,active,8,tinyint,NULL,NULL,NULL,NULL,NULL
+,sakila,staff,username,9,varchar,16,NULL,NULL,NULL,NULL
+,sakila,staff,password,10,varchar,40,NULL,NULL,NULL,NULL
+,sakila,staff,last_update,11,timestamp,NULL,NULL,NULL,NULL,NULL
+,sakila,store,store_id,1,tinyint,NULL,"PRIMARY KEY",NULL,NULL,NULL
+,sakila,store,manager_staff_id,2,tinyint,NULL,UNIQUE,NULL,NULL,NULL
+,sakila,store,manager_staff_id,2,tinyint,NULL,"FOREIGN KEY",sakila,staff,staff_id
+,sakila,store,address_id,3,smallint,NULL,"FOREIGN KEY",sakila,address,address_id
+,sakila,store,last_update,4,timestamp,NULL,NULL,NULL,NULL,NULL
